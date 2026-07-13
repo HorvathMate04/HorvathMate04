@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:2D1B69,100:6A3093&height=280&section=header&text=HORV%C3%81TH%20M%C3%81T%C3%89&fontSize=55&fontColor=E0D5FF&animation=fadeIn&fontAlignY=38&desc=Junior%20Software%20Developer%20%7C%20Backend%20%26%20DevOps%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:2D1B69,100:6A3093&height=280&section=header&text=HORV%C3%81TH%20M%C3%81T%C3%89&fontSize=60&fontColor=E0D5FF&animation=fadeIn&fontAlignY=38&desc=Junior%20Software%20Developer%20%7C%20Backend%20%26%20DevOps%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Backend+%26+Database+Focused;Self-Hosting+%26+Home+Server+Tinkerer;Learning+DevOps+%26+IT+Security;Building+Craftdle" alt="Typing SVG" />
