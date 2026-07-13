@@ -171,26 +171,13 @@ Completed a 3-month professional internship as part of secondary school studies.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HorvathMate04&show_icons=true&theme=radical&hide_border=true&bg_color=0F0524&title_color=A78BFA&icon_color=6A3093&text_color=E0D5FF" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HorvathMate04&theme=radical&hide_border=true&background=0F0524&stroke=A78BFA&ring=6A3093&fire=A78BFA&currStreakLabel=E0D5FF" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HorvathMate04&theme=radical&hide_border=true&background=0F0524&stroke=A78BFA&ring=6A3093&fire=A78BFA&currStreakLabel=E0D5FF" width="60%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HorvathMate04&layout=compact&theme=radical&hide_border=true&bg_color=0F0524&title_color=A78BFA&text_color=E0D5FF" width="49%"/>
 
 </div>
 
 <br/>
 
----
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"/> GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HorvathMate04&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-
-</div>
-
-<br/>
 
 ---
 
@@ -204,17 +191,6 @@ Completed a 3-month professional internship as part of secondary school studies.
 
 <br/>
 
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/HorvathMate04/HorvathMate04/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-<br/>
 
 ---
 
