@@ -71,7 +71,7 @@ My most significant project so far is **Craftdle**, a web application I built to
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,js,cs&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,cs&theme=dark"/>
 
 **Backend & Databases**
 
