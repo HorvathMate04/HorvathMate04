@@ -75,11 +75,12 @@ My most significant project so far is **Craftdle**, a web application I built to
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,mysql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,mysql&theme=dark"/>
 
 **Tools & Environment**
 
-<img src="https://skillicons.dev/icons?i=linux,git,docker&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=linux,git,github,docker,cloudflare&theme=dark"/>
+<img src="https://cdn.simpleicons.org/trello/0052CC" height="48"/>
 
 </div>
 
