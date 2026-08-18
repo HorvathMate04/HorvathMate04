@@ -134,7 +134,7 @@ A self-developed web application built together with a friend. Responsible for b
 
 Completed a 3-month professional internship as part of secondary school studies.
 
-`Node.js` `JavaScript` `Git`
+`Node.js` `NestJS` `Prisma` `JavaScript` `Git` `PL/SQL` 
 
 <br/>
 
